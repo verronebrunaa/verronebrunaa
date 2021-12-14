@@ -3,13 +3,16 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: I (really really really) love books 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/verronebruna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verronebruna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-  <p align="left">
+  
+  <p align="center">
 <a href="https://www.linkedin.com/in/verronebruna/" target="blank" alt="linkedin"><img align="center" style="margin: 2px" width="100px" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/verronebru/" target="blank" alt="Instagram"><img align="center" style="margin: 2px" width="120px" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="verronebruna@gmail.com" target="blank" alt="Instagram"><img align="center" style="margin: 2px" width="86px" alt="Instagram" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<h4 align="center">Visitor's count 💜:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{verronebru}/count.svg" alt="erfan visitor count" /></p>
