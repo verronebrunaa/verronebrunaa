@@ -13,7 +13,7 @@
   <p align="center">
 <a href="https://www.linkedin.com/in/verronebruna/" target="blank" alt="linkedin"><img align="center" style="margin: 2px" width="100px" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/verronebru/" target="blank" alt="Instagram"><img align="center" style="margin: 2px" width="120px" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:verronebruna@gmail.com" target="blank" alt="Gmail"><img align="center" style="margin: 2px" width="86px" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:verronebruna@gmail.com" target="blank" alt="Gmail"><img align="center" style="margin: 2px" width="86px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.buymeacoffee.com/verronebru"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="30px" width="100px" alt="verronebru" /></a>
 
 </p>
