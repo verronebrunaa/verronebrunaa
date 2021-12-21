@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/verronebruna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verronebruna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verronebruna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 <h2 align="center">You can reach me at 💻:</h2>
