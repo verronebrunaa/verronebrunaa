@@ -2,7 +2,7 @@
 
 <p align="center">
  Pronouns: She/Her
-  ⭐ Fun fact: I (really really really) love books 📍 São Paulo - SP, Brasil
+  ⭐ Fun fact: I (really really really) like listen music and read book 📍 São Paulo - SP, Brasil
 
 <div align="center">
   <a href="https://github.com/verronebruna">
