@@ -5,7 +5,7 @@
  <li> Pronouns: She/Her</li>
  <li>⭐ Fun fact: I (really really really) like listen music and read books.</li>
  <li>📚 Full Stack Developer at Generation </li>
- <li>👩🏻‍💻 Software Engineer at @Sumup </li>
+ <li>👩🏻‍💻 Software Engineer at Sumup </li>
  <li>📍 São Paulo - SP, Brasil</li>
  </div>
   
