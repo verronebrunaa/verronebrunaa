@@ -2,7 +2,7 @@
 
 <div align="center">
  <h3 align="center">About me:</h3>
- <li> Pronouns: She/Her</li>
+ <li> Pronouns: She/Ella/Ela</li>
  <li>⭐ Fun fact: I (really really really) like listen music and read books.</li>
  <li>📚 Full Stack Developer at Generation </li>
  <li>👩🏻‍💻 Software Engineer at Sumup </li>
