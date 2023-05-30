@@ -6,7 +6,8 @@
  <li>⭐ Fun fact: I (really really really) like listen music and read books.</li>
  <li>📚 Full Stack Developer at Generation </li>
  <li>👩🏻‍💻 Software Engineer at Sumup </li>
- <li>📍 São Paulo - SP, Brasil</li>
+ <li> I study computer engineering at faces </li> 
+ <li>📍 Sorocaba - SP, Brasil</li>
  </div>
   
 <h2 align="center">💻 You can reach me at:</h2>
