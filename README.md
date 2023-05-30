@@ -9,8 +9,6 @@
  <li>📖 I study Computer Engineering at Facens </li> 
  <li>📍 Sorocaba - SP, Brasil</li>
  </div>
-  
-<a href="mailto:verronebruna@gmail.com" target="blank" alt="Gmail"><img align="center" style="margin: 2px" width="86px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <h2 align="center">Visitor's count 💜:</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{verronebru}/count.svg" alt="erfan visitor count" /></p>
