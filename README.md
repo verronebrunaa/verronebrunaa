@@ -15,9 +15,9 @@
 </table>
 
 ### Sobre mim: 
- <li> Pronomes: Ela | Dela</li>
- <li>⭐ Fun fact: Eu realmente amo livros, filmes e música.</li>
- <li>📚 Full Stack Developer at Generation </li>
+ <li> 👩 Pronomes: Ela | Dela</li>
+ <li>⭐ Fatos: Eu realmente amo livros, gatos, viajar e música.</li>
+ <li>📚 Formada como Full Stack na Generation Brasil </li>
  <li>👩🏻‍💻 Sou Engenheira de Software Junior na Sumup </li>
  <li>📖 Eu estudo Engenharia da computação na Facens </li> 
  <li>📍 Cotiense morando em Sorocaba - SP, Brasil</li>
