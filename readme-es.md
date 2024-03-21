@@ -18,9 +18,8 @@
  <li> 👩 Pronombres: Ela | Dela</li>
  <li>⭐ Hechos sobre mí: Eu realmente amo livros, gatos, viajar e música.</li>
  <li>📚 Graduada en Full Stack por Generation Brasil </li>
- <li>👩🏻‍💻 Soy Ingeniera de Software Junior en Sumup </li>
  <li>📖 Estudio Ingeniería Informática en Facens </li> 
  <li>📍 Vivo en Sorocaba - SP, Brasil</li>
 
 ### Recuento de visitantes 💜:
-<img src="https://profile-counter.glitch.me/{verronebru}/count.svg" alt="erfan visitor count" /></p>
+<img src="https://profile-counter.glitch.me/{verronebrunaa}/count.svg" alt="erfan visitor count" /></p>
