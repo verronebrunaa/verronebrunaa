@@ -15,11 +15,19 @@
 </table>
 
 ### Sobre mim: 
- <li> 👩 Pronomes: Ela | Dela</li>
+ <li>👩 Pronomes: Ela | Dela</li>
  <li>⭐ Fatos: Eu realmente amo livros, gatos, viajar e música.</li>
  <li>📚 Formada como Full Stack na Generation Brasil </li>
  <li>📖 Eu estudo Engenharia da computação na Facens </li> 
  <li>📍 Cotiense morando em Sorocaba - SP, Brasil</li>
+
+### Estatística: 
+<a href="https://github.com/verronebruna/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=verronebruna&theme=synthwave" />
+</a>
+<a href="https://github.com/verronebruna/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verronebruna&layout=compact&theme=synthwave&langs_count=8&card_width=420" />
+</a>
 
 ### Contagem de Visitantes 💜:
 <img src="https://profile-counter.glitch.me/{verronebrunaa}/count.svg" alt="erfan visitor count" /></p>
