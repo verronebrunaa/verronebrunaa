@@ -21,6 +21,14 @@
  <li>📖 I study Computer Engineering at Facens </li> 
  <li>📍 Sorocaba - SP, Brasil</li>
  </div>
+ 
+### Statistics: 
+<a href="https://github.com/verronebruna/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=verronebruna&theme=synthwave" />
+</a>
+<a href="https://github.com/verronebruna/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verronebruna&layout=compact&theme=synthwave&langs_count=8&card_width=420" />
+</a>
 
 ### Visitor's count 💜: 
 <img src="https://profile-counter.glitch.me/{verronebrunaa}/count.svg" alt="erfan visitor count" /></p>
