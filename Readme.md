@@ -22,10 +22,10 @@
  <li>📍 Cotiense morando em Sorocaba - SP, Brasil</li>
 
 ### Estatística: 
-<a href="https://github.com/verronebruna/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=verronebruna&theme=synthwave" />
+<a href="https://github.com/verronebrunaa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=verronebrunaa&theme=synthwave" />
 </a>
-<a href="https://github.com/verronebruna/convoychat">
+<a href="https://github.com/verronebrunaa/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verronebruna&layout=compact&theme=synthwave&langs_count=8&card_width=420" />
 </a>
 
