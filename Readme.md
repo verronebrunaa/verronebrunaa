@@ -16,7 +16,7 @@
 
 ### Sobre mim: 
  <li>👩 Pronomes: Ela | Dela</li>
- <li>⭐ Fatos: Eu realmente amo livros, gatos, viajar e música.</li>
+ <li>⭐ Eu realmente amo livros, gatos, viajar e música (canto desde ivete até uns shoegaze).</li>
  <li>📚 Formada como Full Stack na Generation Brasil </li>
  <li>📖 Eu estudo Engenharia da computação na Facens </li> 
  <li>📍 Cotiense morando em Sorocaba - SP, Brasil</li>
@@ -30,4 +30,4 @@
 </a>
 
 ### Contagem de Visitantes 💜:
-<img src="https://profile-counter.glitch.me/{verronebrunaa}/count.svg" alt="erfan visitor count" /></p>
+<img src="https://profile-counter.glitch.me/{verronebrunaa}/count.svg" alt="visitor count" /></p>
